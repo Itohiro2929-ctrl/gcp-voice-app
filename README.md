@@ -2,6 +2,12 @@
 
 Google Cloud Text-to-Speech API と Streamlit を使用して作成した、テキストデータを音声ファイル（MP3）に変換するWebアプリケーションです。
 
+## デモ動画
+
+以下の画像をクリックすると、YouTubeでアプリの動作デモをご覧いただけます。
+
+[![Cloud Text-to-Speech 音声出力アプリのデモ](https://img.youtube.com/vi/vFR5HdRrllQ/0.jpg)](https://youtu.be/vFR5HdRrllQ)
+
 ## 主な機能
 
 * **テキスト入力**: テキストエリアへの直接入力、またはテキストファイル（`.txt`）のアップロードに対応しています。
