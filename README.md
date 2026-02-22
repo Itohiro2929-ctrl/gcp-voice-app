@@ -23,4 +23,4 @@ Google Cloud Text-to-Speech API と Streamlit を使用して作成した、テ�
 ### 1. リポジトリのクローン
 ```bash
 git clone https://github.com/Itohiro2929-ctrl/gcp-voice-app.git
-cd リポジトリ名
+cd gcp-voice-app
